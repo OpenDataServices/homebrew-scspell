@@ -1,9 +1,9 @@
 # Opendataservices Scspell
 
 ## How do I install these formulae?
-`brew install opendataservices/scspell/<formula>`
+`brew install opendataservices/tap/<formula>`
 
-Or `brew tap opendataservices/scspell` and then `brew install <formula>`.
+Or `brew tap opendataservices/tap` and then `brew install <formula>`.
 
 ## Documentation
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
