@@ -1,4 +1,10 @@
-# Opendataservices Scspell
+# OpenDataServices Homebrew Tap
+
+Provides access for Homebrew users to packages that aren't available in homebrew-core. 
+
+## Formulae
+
+scspell - a spellchecker for code
 
 ## How do I install these formulae?
 `brew install opendataservices/tap/<formula>`
